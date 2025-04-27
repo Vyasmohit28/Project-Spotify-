@@ -1,0 +1,35 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif ;
+}
+.flex {
+    display:flex;
+}
+.gap-1{
+    gap: 0.5vw;
+}
+.bg-grey{
+    background-color: #121212;
+}
+.p-1{
+    padding: 8px;
+}
+.br-1{
+    border-radius: 5px;
+}
+.invert{
+    filter: invert(1);
+}
+.invert-light{
+    filter: invert(0.8);
+}
+.p-2{
+    padding-top: 1.3vw;
+}
+.gap-2{
+    gap: 1.5vw;
+}
+.font-1{
+    font-size: 1.1vw;
+}
